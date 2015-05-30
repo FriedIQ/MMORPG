@@ -1,0 +1,3122 @@
+Initialize engine version: 5.1.0f1 (82c0618b396f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   ATI
+    VRAM:     2031 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.170 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projects\Unity\Projects\MMORPG\Builds\MMORPG_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16e0 -> priority: 1 
+  Thread -> id: 988 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.692492 ms
+OnStartLocalPlayer():Client 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.733408 ms (FindLiveObjects: 0.087551 ms CreateObjectMapping: 0.035636 ms MarkObjects: 0.588662 ms  DeleteObjects: 0.019798 ms)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Untagged
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerIdentity])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerIdentity])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerRotation] doesn't match [PlayerIdentity])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerRotation] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerIdentity] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerRotation] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerIdentity] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerRotation] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerIdentity] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerPosition])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerRotation] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerIdentity] doesn't match [PlayerShoot])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerSetup] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+InvokeCommand class [PlayerPosition] doesn't match [PlayerRotation])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.127719 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.451395 ms (FindLiveObjects: 0.026837 ms CreateObjectMapping: 0.024197 ms MarkObjects: 0.365164 ms  DeleteObjects: 0.034316 ms)
+
