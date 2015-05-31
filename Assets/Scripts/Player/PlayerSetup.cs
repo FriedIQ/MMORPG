@@ -12,7 +12,6 @@ public class PlayerSetup : NetworkBehaviour
     [SerializeField]
     AudioListener playerAudioListener;
 
-
     private NetworkClient nClient;
     private int latency;
     private Text latencyText;
@@ -32,7 +31,7 @@ public class PlayerSetup : NetworkBehaviour
             }
 
             // GetComponent<CharacterController>().enabled = true;
-            GetComponent<UnityStandardAssets.Characters.FirstPerson.FirstPersonController>().enabled = true;
+            GetComponent<PlayerCharacterController>().enabled = true;
 
             playerCamera.enabled = true;
             playerAudioListener.enabled = true;
