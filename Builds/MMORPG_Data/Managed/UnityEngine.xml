@@ -3873,7 +3873,7 @@ SA: [[WWW.assetBundle]], [[WWW.LoadFromCacheOrDownload]].</param>
     </member>
     <member name="P:UnityEngine.AudioSource.spread">
       <summary>
-        <para>Sets the spread angle a 3d stereo or multichannel sound in speaker space.</para>
+        <para>Sets the spread angle (in degrees) of a 3d stereo or multichannel sound in speaker space.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.AudioSource.time">
@@ -5583,12 +5583,12 @@ SA: [[WWW.assetBundle]], [[WWW.LoadFromCacheOrDownload]].</param>
     </member>
     <member name="T:UnityEngine.CharacterJoint">
       <summary>
-        <para>Character Joints are mainly used for Ragdoll effects. They are an extended ball-socket joint which allows you to limit the joint on each axis.</para>
+        <para>Character Joints are mainly used for Ragdoll effects.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.CharacterJoint.enableProjection">
       <summary>
-        <para>Brings violated constraints back into alignment even when the solver fails. Projection is not a physical process and does not preserve momentum or respect collision geometry. It is best avoided if practical, but can be useful in improving simulation quality where joint separation results in unacceptable artifacts.</para>
+        <para>Brings violated constraints back into alignment even when the solver fails.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.CharacterJoint.highTwistLimit">
@@ -5603,36 +5603,22 @@ SA: [[WWW.assetBundle]], [[WWW.LoadFromCacheOrDownload]].</param>
     </member>
     <member name="P:UnityEngine.CharacterJoint.projectionAngle">
       <summary>
-        <para>Set the angular tolerance threshold for projection.
-
-If the joint deviates by more than this angle around its locked angular degrees of freedom, 
-the solver will move the bodies to close the angle.
-
-Setting a very small tolerance may result in simulation jitter or other artifacts.
-
-Sometimes it is not possible to project (for example when the joints form a cycle).</para>
+        <para>Set the angular tolerance threshold (in degrees) for projection.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.CharacterJoint.projectionDistance">
       <summary>
-        <para>Set the linear tolerance threshold for projection.
-
-If the joint separates by more than this distance along its locked degrees of freedom, the solver 
-will move the bodies to close the distance.
-
-Setting a very small tolerance may result in simulation jitter or other artifacts.
-
-Sometimes it is not possible to project (for example when the joints form a cycle).</para>
+        <para>Set the linear tolerance threshold for projection.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.CharacterJoint.swing1Limit">
       <summary>
-        <para>The limit around the primary axis of the character joint.</para>
+        <para>The angular limit of rotation (in degrees) around the primary axis of the character joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.CharacterJoint.swing2Limit">
       <summary>
-        <para>The limit around the primary axis of the character joint.</para>
+        <para>The angular limit of rotation (in degrees) around the primary axis of the character joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.CharacterJoint.swingAxis">
@@ -6705,31 +6691,27 @@ Sometimes it is not possible to project (for example when the joints form a cycl
     </member>
     <member name="M:UnityEngine.ComputeBuffer.CopyCount(UnityEngine.ComputeBuffer,UnityEngine.ComputeBuffer,System.Int32)">
       <summary>
-        <para>Set buffer data.</para>
+        <para>Copy counter value of append/consume buffer into another buffer.</para>
       </summary>
-      <param name="src"></param>
-      <param name="dst"></param>
-      <param name="dstOffset"></param>
+      <param name="src">Append/consume buffer to copy the counter from.</param>
+      <param name="dst">A buffer to copy the counter to.</param>
+      <param name="dstOffset">Target byte offset in /dst/.</param>
     </member>
     <member name="M:UnityEngine.ComputeBuffer.#ctor(System.Int32,System.Int32)">
       <summary>
         <para>Create a Compute Buffer.</para>
       </summary>
       <param name="count">Number of elements in the buffer.</param>
-      <param name="stride">Size of one element in the buffer. Has to match size of buffer type in the shader.</param>
-      <param name="type">Type of the buffer, default is ComputeBufferType.Default.
-
-SA: [[SystemInfo.supportsComputeShaders]], [[ComputeShader]] class, [[Shader.SetGlobalBuffer]], [[Material.SetBuffer]], [[wiki:Compute Shaders|Compute Shaders]].</param>
+      <param name="stride">Size of one element in the buffer. Has to match size of buffer type in the shader. See [[wiki:Compute Shaders|Compute Shaders]] for cross-platform compatibility information.</param>
+      <param name="type">Type of the buffer, default is ComputeBufferType.Default.</param>
     </member>
     <member name="M:UnityEngine.ComputeBuffer.#ctor(System.Int32,System.Int32,UnityEngine.ComputeBufferType)">
       <summary>
         <para>Create a Compute Buffer.</para>
       </summary>
       <param name="count">Number of elements in the buffer.</param>
-      <param name="stride">Size of one element in the buffer. Has to match size of buffer type in the shader.</param>
-      <param name="type">Type of the buffer, default is ComputeBufferType.Default.
-
-SA: [[SystemInfo.supportsComputeShaders]], [[ComputeShader]] class, [[Shader.SetGlobalBuffer]], [[Material.SetBuffer]], [[wiki:Compute Shaders|Compute Shaders]].</param>
+      <param name="stride">Size of one element in the buffer. Has to match size of buffer type in the shader. See [[wiki:Compute Shaders|Compute Shaders]] for cross-platform compatibility information.</param>
+      <param name="type">Type of the buffer, default is ComputeBufferType.Default.</param>
     </member>
     <member name="M:UnityEngine.ComputeBuffer.GetData(System.Array)">
       <summary>
@@ -6805,52 +6787,52 @@ SA: [[SystemInfo.supportsComputeShaders]], [[ComputeShader]] class, [[Shader.Set
       <summary>
         <para>Sets an input or output compute buffer.</para>
       </summary>
-      <param name="kernelIndex"></param>
-      <param name="name"></param>
-      <param name="buffer"></param>
+      <param name="kernelIndex">For which kernel the buffer is being set. See ::ref::FindKernel.</param>
+      <param name="name">Name of the buffer variable in shader code.</param>
+      <param name="buffer">Buffer to set.</param>
     </member>
     <member name="M:UnityEngine.ComputeShader.SetFloat(System.String,System.Single)">
       <summary>
         <para>Set a float parameter.</para>
       </summary>
-      <param name="name"></param>
-      <param name="val"></param>
+      <param name="name">Variable name in shader code.</param>
+      <param name="val">Value to set.</param>
     </member>
     <member name="M:UnityEngine.ComputeShader.SetFloats(System.String,System.Single[])">
       <summary>
         <para>Set multiple consecutive float parameters at once.</para>
       </summary>
-      <param name="name"></param>
-      <param name="values"></param>
+      <param name="name">Array variable name in the shader code.</param>
+      <param name="values">Value array to set.</param>
     </member>
     <member name="M:UnityEngine.ComputeShader.SetInt(System.String,System.Int32)">
       <summary>
         <para>Set an integer parameter.</para>
       </summary>
-      <param name="name"></param>
-      <param name="val"></param>
+      <param name="name">Variable name in shader code.</param>
+      <param name="val">Value to set.</param>
     </member>
     <member name="M:UnityEngine.ComputeShader.SetInts(System.String,System.Int32[])">
       <summary>
         <para>Set multiple consecutive integer parameters at once.</para>
       </summary>
-      <param name="name"></param>
-      <param name="values"></param>
+      <param name="name">Array variable name in the shader code.</param>
+      <param name="values">Value array to set.</param>
     </member>
     <member name="M:UnityEngine.ComputeShader.SetTexture(System.Int32,System.String,UnityEngine.Texture)">
       <summary>
         <para>Set a texture parameter.</para>
       </summary>
-      <param name="kernelIndex"></param>
-      <param name="name"></param>
-      <param name="texture"></param>
+      <param name="kernelIndex">For which kernel the texture is being set. See ::ref::FindKernel.</param>
+      <param name="name">Name of the buffer variable in shader code.</param>
+      <param name="texture">Texture to set.</param>
     </member>
     <member name="M:UnityEngine.ComputeShader.SetVector(System.String,UnityEngine.Vector4)">
       <summary>
         <para>Set a vector parameter.</para>
       </summary>
-      <param name="name"></param>
-      <param name="val"></param>
+      <param name="name">Variable name in shader code.</param>
+      <param name="val">Value to set.</param>
     </member>
     <member name="T:UnityEngine.ConfigurableJoint">
       <summary>
@@ -6929,7 +6911,7 @@ SA: [[SystemInfo.supportsComputeShaders]], [[ComputeShader]] class, [[Shader.Set
     </member>
     <member name="P:UnityEngine.ConfigurableJoint.projectionAngle">
       <summary>
-        <para>Set the angular tolerance threshold for projection.
+        <para>Set the angular tolerance threshold (in degrees) for projection.
 
 If the joint deviates by more than this angle around its locked angular degrees of freedom, 
 the solver will move the bodies to close the angle.
@@ -9412,7 +9394,7 @@ Sometimes it is not possible to project (for example when the joints form a cycl
         <para>Draw a camera frustum using the currently set Gizmos.matrix for it's location and rotation.</para>
       </summary>
       <param name="center">The apex of the truncated pyramid.</param>
-      <param name="fov">Vertical field of view (ie, the angle at the apex).</param>
+      <param name="fov">Vertical field of view (ie, the angle at the apex in degrees).</param>
       <param name="maxRange">Distance of the frustum's far plane.</param>
       <param name="minRange">Distance of the frustum's near plane.</param>
       <param name="aspect">Width/height ratio.</param>
@@ -9903,7 +9885,7 @@ Sometimes it is not possible to project (for example when the joints form a cycl
     </member>
     <member name="M:UnityEngine.Graphics.ClearRandomWriteTargets">
       <summary>
-        <para>Clear random write targets for DX11 pixel shaders.</para>
+        <para>Clear random write targets for Shader Model 5.0 level pixel shaders.</para>
       </summary>
     </member>
     <member name="M:UnityEngine.Graphics.DrawMesh(UnityEngine.Mesh,UnityEngine.Vector3,UnityEngine.Quaternion)">
@@ -10102,9 +10084,9 @@ Sometimes it is not possible to project (for example when the joints form a cycl
       <summary>
         <para>Draws a fully procedural geometry on the GPU.</para>
       </summary>
-      <param name="topology"></param>
-      <param name="bufferWithArgs"></param>
-      <param name="argsOffset"></param>
+      <param name="topology">Topology of the procedural geometry.</param>
+      <param name="bufferWithArgs">Buffer with draw arguments.</param>
+      <param name="argsOffset">Offset where in the buffer the draw arguments are.</param>
     </member>
     <member name="M:UnityEngine.Graphics.DrawTexture(UnityEngine.Rect,UnityEngine.Texture,UnityEngine.Material)">
       <summary>
@@ -10170,17 +10152,17 @@ Sometimes it is not possible to project (for example when the joints form a cycl
     </member>
     <member name="M:UnityEngine.Graphics.SetRandomWriteTarget(System.Int32,UnityEngine.RenderTexture)">
       <summary>
-        <para>Set random write target for DX11 pixel shaders.</para>
+        <para>Set random write target for Shader Model 5.0 level pixel shaders.</para>
       </summary>
-      <param name="index"></param>
-      <param name="uav"></param>
+      <param name="index">Index of the random write target in the shader.</param>
+      <param name="uav">RenderTexture/ComputeBuffer to set as write target.</param>
     </member>
     <member name="M:UnityEngine.Graphics.SetRandomWriteTarget(System.Int32,UnityEngine.ComputeBuffer)">
       <summary>
-        <para>Set random write target for DX11 pixel shaders.</para>
+        <para>Set random write target for Shader Model 5.0 level pixel shaders.</para>
       </summary>
-      <param name="index"></param>
-      <param name="uav"></param>
+      <param name="index">Index of the random write target in the shader.</param>
+      <param name="uav">RenderTexture/ComputeBuffer to set as write target.</param>
     </member>
     <member name="M:UnityEngine.Graphics.SetRenderTarget(UnityEngine.RenderTexture)">
       <summary>
@@ -14619,7 +14601,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="P:UnityEngine.HingeJoint.limits">
       <summary>
-        <para>Limit of angular rotation on the hinge joint.</para>
+        <para>Limit of angular rotation (in degrees) on the hinge joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.HingeJoint.motor">
@@ -14659,7 +14641,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="P:UnityEngine.HingeJoint2D.jointAngle">
       <summary>
-        <para>The current joint angle with respect to the reference angle.</para>
+        <para>The current joint angle (in degrees) with respect to the reference angle.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.HingeJoint2D.jointSpeed">
@@ -14669,7 +14651,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="P:UnityEngine.HingeJoint2D.limits">
       <summary>
-        <para>Limit of angular rotation on the joint.</para>
+        <para>Limit of angular rotation (in degrees) on the joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.HingeJoint2D.limitState">
@@ -14684,7 +14666,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="P:UnityEngine.HingeJoint2D.referenceAngle">
       <summary>
-        <para>The angle referenced between the two bodies used as the constraint for the joint.</para>
+        <para>The angle (in degrees) referenced between the two bodies used as the constraint for the joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.HingeJoint2D.useLimits">
@@ -15684,27 +15666,17 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="P:UnityEngine.JointLimits.contactDistance">
       <summary>
-        <para>Determines how far ahead in space the solver can "see" the joint limit.</para>
+        <para>Distance inside the limit value at which the limit will be considered to be active by the solver.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.JointLimits.max">
       <summary>
-        <para>The upper limit of the joint.</para>
-      </summary>
-    </member>
-    <member name="F:UnityEngine.JointLimits.maxBounce">
-      <summary>
-        <para>Deprecated.</para>
+        <para>The upper angular limit (in degrees) of the joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.JointLimits.min">
       <summary>
-        <para>The lower limit of the joint.</para>
-      </summary>
-    </member>
-    <member name="F:UnityEngine.JointLimits.minBounce">
-      <summary>
-        <para>Deprecated.</para>
+        <para>The lower angular limit (in degrees) of the joint.</para>
       </summary>
     </member>
     <member name="T:UnityEngine.JointLimitState2D">
@@ -15814,7 +15786,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="P:UnityEngine.JointSuspension2D.angle">
       <summary>
-        <para>The world angle along which the suspension will move.   This provides 2D constrained motion similar to a SliderJoint2D.  This is typically how suspension works in the real world.</para>
+        <para>The world angle (in degrees) along which the suspension will move.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.JointSuspension2D.dampingRatio">
@@ -18993,7 +18965,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
     </member>
     <member name="M:UnityEngine.Mathf.DeltaAngle(System.Single,System.Single)">
       <summary>
-        <para>Calculates the shortest difference between two given angles.</para>
+        <para>Calculates the shortest difference between two given angles given in degrees.</para>
       </summary>
       <param name="current"></param>
       <param name="target"></param>
@@ -19971,7 +19943,7 @@ GUILayout::ref::MaxHeight, GUILayout::ref::ExpandWidth, GUILayout::ref::ExpandHe
       <param name="areaMask">A bitfield mask specifying which NavMesh areas can be passed when calculating a path.</param>
       <param name="path">The resulting path.</param>
       <returns>
-        <para>True if a path is found.</para>
+        <para>True if a either a complete or partial path is found and false otherwise.</para>
       </returns>
     </member>
     <member name="M:UnityEngine.NavMesh.CalculateTriangulation">
@@ -22948,7 +22920,7 @@ Topology is used to define how many client can connect, and how many messages sh
     </member>
     <member name="?:UnityEngine.Object.op_Equal(UnityEngine.Object,UnityEngine.Object)">
       <summary>
-        <para>Compares if two objects refer to the same.</para>
+        <para>Compares two object references to see if they refer to the same object.</para>
       </summary>
       <param name="x">The first Object.</param>
       <param name="y">The Object to compare against the first.</param>
@@ -24804,7 +24776,7 @@ Note that IgnoreLayerCollision will reset the trigger state of affected collider
       </summary>
       <param name="origin">The point in 2D space where the shape originates.</param>
       <param name="size">The size of the shape.</param>
-      <param name="angle">The angle of the shape.</param>
+      <param name="angle">The angle of the shape (in degrees).</param>
       <param name="direction">Vector representing the direction of the shape.</param>
       <param name="distance">Maximum distance over which to cast the shape.</param>
       <param name="layerMask">Filter to detect Colliders only on certain layers.</param>
@@ -24820,7 +24792,7 @@ Note that IgnoreLayerCollision will reset the trigger state of affected collider
       </summary>
       <param name="origin">The point in 2D space where the shape originates.</param>
       <param name="size">The size of the shape.</param>
-      <param name="angle">The angle of the shape.</param>
+      <param name="angle">The angle of the shape (in degrees).</param>
       <param name="direction">Vector representing the direction of the shape.</param>
       <param name="distance">Maximum distance over which to cast the shape.</param>
       <param name="layerMask">Filter to detect Colliders only on certain layers.</param>
@@ -24836,7 +24808,7 @@ Note that IgnoreLayerCollision will reset the trigger state of affected collider
       </summary>
       <param name="origin">The point in 2D space where the shape originates.</param>
       <param name="size">The size of the shape.</param>
-      <param name="angle">The angle of the shape.</param>
+      <param name="angle">The angle of the shape (in degrees).</param>
       <param name="direction">Vector representing the direction of the shape.</param>
       <param name="results">Array to receive results.</param>
       <param name="distance">Maximum distance over which to cast the shape.</param>
@@ -26487,7 +26459,7 @@ The block is specified by its x,y offset in the texture and by its width and hei
     </member>
     <member name="M:UnityEngine.Quaternion.ToAngleAxis(System.Single&amp;,UnityEngine.Vector3&amp;)">
       <summary>
-        <para>Converts a rotation to angle-axis representation.</para>
+        <para>Converts a rotation to angle-axis representation (angles in degrees).</para>
       </summary>
       <param name="angle"></param>
       <param name="axis"></param>
@@ -26561,7 +26533,7 @@ The block is specified by its x,y offset in the texture and by its width and hei
     </member>
     <member name="M:UnityEngine.Random.Range(System.Single,System.Single)">
       <summary>
-        <para>Returns a random float number between and /min/ [inclusive] and /max/ [exclusive] (RO).</para>
+        <para>Returns a random float number between and /min/ [inclusive] and /max/ [inclusive] (RO).</para>
       </summary>
       <param name="min"></param>
       <param name="max"></param>
@@ -29039,7 +29011,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="P:UnityEngine.RenderTexture.enableRandomWrite">
       <summary>
-        <para>Enable DX11 random access write into this render texture.</para>
+        <para>Enable random access write into this render texture on Shader Model 5.0 level shaders.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.RenderTexture.format">
@@ -30068,7 +30040,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="M:UnityEngine.Rigidbody2D.MoveRotation(System.Single)">
       <summary>
-        <para>Rotates the rigidbody to /angle/.</para>
+        <para>Rotates the rigidbody to /angle/ (given in degrees).</para>
       </summary>
       <param name="angle">The new rotation angle for the Rigidbody object.</param>
     </member>
@@ -31059,7 +31031,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="P:UnityEngine.SliderJoint2D.angle">
       <summary>
-        <para>The angle of the line in space.</para>
+        <para>The angle of the line in space (in degrees).</para>
       </summary>
     </member>
     <member name="P:UnityEngine.SliderJoint2D.jointSpeed">
@@ -31089,7 +31061,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="P:UnityEngine.SliderJoint2D.referenceAngle">
       <summary>
-        <para>The angle referenced between the two bodies used as the constraint for the joint.</para>
+        <para>The angle (in degrees) referenced between the two bodies used as the constraint for the joint.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.SliderJoint2D.useLimits">
@@ -31615,7 +31587,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="P:UnityEngine.SoftJointLimit.limit">
       <summary>
-        <para>The limit position/angle of the joint.</para>
+        <para>The limit position/angle of the joint (in degrees).</para>
       </summary>
     </member>
     <member name="P:UnityEngine.SoftJointLimit.spring">
@@ -34516,13 +34488,16 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
       <summary>
         <para>Finds a child by /name/ and returns it.</para>
       </summary>
-      <param name="name"></param>
+      <param name="name">Name of child to be found.</param>
     </member>
     <member name="M:UnityEngine.Transform.GetChild(System.Int32)">
       <summary>
         <para>Returns a transform child by index.</para>
       </summary>
-      <param name="index">Index of the child transform to return. Must be smaller then Transform.childCount.</param>
+      <param name="index">Index of the child transform to return. Must be smaller than Transform.childCount.</param>
+      <returns>
+        <para>Transform child by index.</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.Transform.GetSiblingIndex">
       <summary>
@@ -34545,7 +34520,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="M:UnityEngine.Transform.InverseTransformPoint(UnityEngine.Vector3)">
       <summary>
-        <para>Transforms /position/ from world space to local space. The opposite of Transform.TransformPoint.</para>
+        <para>Transforms /position/ from world space to local space.</para>
       </summary>
       <param name="position"></param>
     </member>
@@ -36069,7 +36044,7 @@ Updating a probe's cubemap is a costly operation. Unity needs to render the enti
     </member>
     <member name="P:UnityEngine.WebCamTexture.videoRotationAngle">
       <summary>
-        <para>Returns an clockwise angle, which can be used to rotate a polygon so camera contents are shown in correct orientation.</para>
+        <para>Returns an clockwise angle (in degrees), which can be used to rotate a polygon so camera contents are shown in correct orientation.</para>
       </summary>
     </member>
     <member name="P:UnityEngine.WebCamTexture.videoVerticallyMirrored">
@@ -36277,7 +36252,7 @@ Please note that having this parameter equal to zero could be undesirable as it 
     </member>
     <member name="M:UnityEngine.WheelCollider.GetWorldPose(UnityEngine.Vector3&amp;,UnityEngine.Quaternion&amp;)">
       <summary>
-        <para>Gets the world space pose of the wheel accounting for ground contact, suspension limits, steer angle, and rotation angle.</para>
+        <para>Gets the world space pose of the wheel accounting for ground contact, suspension limits, steer angle, and rotation angle (angles in degrees).</para>
       </summary>
       <param name="pos">Position of the wheel in world space.</param>
       <param name="quat">Rotation of the wheel in world space.</param>
@@ -36641,8 +36616,10 @@ Please note that having this parameter equal to zero could be undesirable as it 
 the .audioClip property defaults to 3D.</param>
       <param name="stream">Sets whether the clip should be completely downloaded before it's ready to play (false) or the stream can be played even if only part of the clip is downloaded (true).
 The latter will disable seeking on the clip (with .time and/or .timeSamples).</param>
-      <param name="set">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
-      <param name="audioType"></param>
+      <param name="audioType">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
+      <returns>
+        <para>The returned [[AudioClip]].</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.WWW.GetAudioClip(System.Boolean,System.Boolean)">
       <summary>
@@ -36652,8 +36629,10 @@ The latter will disable seeking on the clip (with .time and/or .timeSamples).</p
 the .audioClip property defaults to 3D.</param>
       <param name="stream">Sets whether the clip should be completely downloaded before it's ready to play (false) or the stream can be played even if only part of the clip is downloaded (true).
 The latter will disable seeking on the clip (with .time and/or .timeSamples).</param>
-      <param name="set">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
-      <param name="audioType"></param>
+      <param name="audioType">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
+      <returns>
+        <para>The returned [[AudioClip]].</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.WWW.GetAudioClip(System.Boolean,System.Boolean,UnityEngine.AudioType)">
       <summary>
@@ -36663,8 +36642,10 @@ The latter will disable seeking on the clip (with .time and/or .timeSamples).</p
 the .audioClip property defaults to 3D.</param>
       <param name="stream">Sets whether the clip should be completely downloaded before it's ready to play (false) or the stream can be played even if only part of the clip is downloaded (true).
 The latter will disable seeking on the clip (with .time and/or .timeSamples).</param>
-      <param name="set">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
-      <param name="audioType"></param>
+      <param name="audioType">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
+      <returns>
+        <para>The returned [[AudioClip]].</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.WWW.GetAudioClipCompressed">
       <summary>
@@ -36672,6 +36653,9 @@ The latter will disable seeking on the clip (with .time and/or .timeSamples).</p
       </summary>
       <param name="threeD">Use this to specify whether the clip should be a 2D or 3D clip.</param>
       <param name="audioType">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
+      <returns>
+        <para>The returned [[AudioClip]].</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.WWW.GetAudioClipCompressed(System.Boolean)">
       <summary>
@@ -36679,6 +36663,9 @@ The latter will disable seeking on the clip (with .time and/or .timeSamples).</p
       </summary>
       <param name="threeD">Use this to specify whether the clip should be a 2D or 3D clip.</param>
       <param name="audioType">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
+      <returns>
+        <para>The returned [[AudioClip]].</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.WWW.GetAudioClipCompressed(System.Boolean,UnityEngine.AudioType)">
       <summary>
@@ -36686,6 +36673,9 @@ The latter will disable seeking on the clip (with .time and/or .timeSamples).</p
       </summary>
       <param name="threeD">Use this to specify whether the clip should be a 2D or 3D clip.</param>
       <param name="audioType">The AudioType of the content your downloading. If this is not set Unity will try to determine the type from URL.</param>
+      <returns>
+        <para>The returned [[AudioClip]].</para>
+      </returns>
     </member>
     <member name="M:UnityEngine.WWW.LoadFromCacheOrDownload">
       <summary>

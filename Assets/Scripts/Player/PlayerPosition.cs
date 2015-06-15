@@ -63,7 +63,7 @@ public class PlayerPosition : NetworkBehaviour
         syncPos = pos;
     }
 
-    [ClientCallback]
+    [Client]
     void SendPosition()
     {
         if(isLocalPlayer && Vector3.Distance(playerTransform.position, lastPos) > threshholdPos)
@@ -71,6 +71,7 @@ public class PlayerPosition : NetworkBehaviour
             // Debug.Log("ClientCallback:SendPosition()");
             CmdSendPosition(playerTransform.position);
             lastPos = playerTransform.position;
+            // Debug.Log(playerTransform.position.ToString());
         }
     }
 

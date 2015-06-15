@@ -32,6 +32,12 @@ public class PlayerRotation : NetworkBehaviour
 	void Update () 
     {
         LerpRotations();
+
+        // TODO: working out how to animate player rotation in place. 
+        //if ((lastPlayerRot - playerTransform.localEulerAngles.y) != 0)
+        //{
+        //    Debug.Log("PlayerRotChange: " + (lastPlayerRot - playerTransform.localEulerAngles.y).ToString());
+        //}
 	}
 
     // FixedUpdate is called on a fixed interval

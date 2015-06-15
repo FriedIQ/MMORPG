@@ -30,11 +30,14 @@ public class PlayerSetup : NetworkBehaviour
                 Debug.Log("Error resolving local client." + ex.Message);
             }
 
-            // GetComponent<CharacterController>().enabled = true;
-            GetComponent<PlayerCharacterController>().enabled = true;
-
             playerCamera.enabled = true;
             playerAudioListener.enabled = true;
+
+            GetComponent<CharacterController>().enabled = true;
+            GetComponent<PlayerCharacterController>().enabled = true;
+            // GameObject.Find("CameraNode").GetComponent<ThirdPersonCameraController>().enabled = true;
+
+            transform.gameObject.layer = LayerMask.NameToLayer("Player");
 
             latencyText = GameObject.Find("Latency Text").GetComponent<Text>();
         }
